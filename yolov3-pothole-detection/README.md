@@ -66,6 +66,7 @@ optional arguments:
     `python train.py`  
     Use your trained weights or checkpoint weights with command line option `--model model_file` when using yolo_video.py
     Remember to modify class path or anchor path, with `--classes class_file` and `--anchors anchor_file`.
+4. The final resulted weights from training could be found at https://drive.google.com/a/ualberta.ca/file/d/1Z6oS-VdxRelyNKrr2fmzcJIvnCCKAhd1/view?usp=sharing
 
 If you want to use original pretrained weights for YOLOv3:  
     1. `wget https://pjreddie.com/media/files/darknet53.conv.74`  
